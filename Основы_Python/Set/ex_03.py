@@ -1,0 +1,5 @@
+numbers_1 = input()
+numbers_2 = input()
+set_num_1 = set(numbers_1)
+set_num_2 = set(numbers_2)
+print(set_num_1 < set_num_2)
